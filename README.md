@@ -37,14 +37,6 @@ the Menagerie repo. Pass `--force` to re-download. (Requires `git` on PATH.)
 python main.py
 ```
 
-## Tests
-
-Unit tests live in `UnitTest/` (gitignored — kept local) and run with:
-
-```bash
-python -m pytest UnitTest/
-```
-
 ## Layout
 
 | Path                         | Purpose                                            |

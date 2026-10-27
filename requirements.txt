@@ -1,0 +1,8 @@
+# Runtime dependencies for the VLA project.
+# Install with:  pip install -r requirements.txt
+
+mujoco>=2.3.3     # MJCF simulation (Franka Panda scene); 2.3.3+ required by the robot model
+pybullet          # alternative PyBullet-backed SimEnv / GUI demo
+
+# Development / testing
+pytest>=7.0

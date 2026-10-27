@@ -1,0 +1,13 @@
+/.*
+!/.gitignore
+/__pycache__
+__pycache__/
+/Docs
+/*.pdf
+
+# Unit tests (kept local, not tracked)
+/UnitTest
+/conftest.py
+
+# robot arms
+franka_emika_panda/
